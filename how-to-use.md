@@ -1,6 +1,6 @@
-# How to Use Clarito
+# How to Use 
 
-Getting started with Clarito is easy:
+Getting started with  is easy:
 
 ## 1. Sign In
 
@@ -22,4 +22,4 @@ Getting started with Clarito is easy:
 
 - View, delete, or update your documents from the Documents page.
 
-Clarito is designed to be intuitive—explore the interface to discover more!
+ is designed to be intuitive—explore the interface to discover more!
